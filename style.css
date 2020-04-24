@@ -244,10 +244,9 @@ body.mobile-nav-open .nav__mobile-nav {
 }
 .btn-group {
   display: flex;
-  justify-content: space-between;
+  
   margin-bottom: 1em;
   max-width: 13.5em;
-  align-items: center;
 }
 
 .patterns-left::after,
