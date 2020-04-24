@@ -1,5 +1,5 @@
-# Prudent
-Beautiful, Fast landing page template for your next mobile project - [Live Preview](https://prudent.netlify.com)
+# Case Tracker for USCIS Landing page
+Beautiful, Fast landing page
 
 ## Features
 - Almost 0 JavaScript
@@ -7,14 +7,3 @@ Beautiful, Fast landing page template for your next mobile project - [Live Previ
 - Highly responsive
 - Optimized images
 - Lighthouse score of 98
-
-## Todo
-- [ ] Animate hamburger & mobile navigation
-- [ ] Add credits for UI screenshots
-- [ ] Use appropriate Apple/Google buttons
-
-## Contributing
-This is a WIP, you can report issues you find or send a pull request to fix them.
-
-
-Happy hacking 🎉🎉🎉
