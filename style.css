@@ -137,6 +137,10 @@ hr {
 }
 .nav__logo {
   margin-right: 4px;
+  border-radius: 25%;
+  height: 30px;
+  width: 30px;
+  align-items: center;
 }
 .nav__hamburger {
   height: 30px;
