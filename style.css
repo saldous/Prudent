@@ -136,12 +136,11 @@ hr {
   align-items: center;
 }
 .nav__logo {
-  margin-right: 4px;
+/*   margin-right: 4px; */
   border-radius: 25%;
   height: 30px;
   width: 30px;
   align-items: center;
-  justify-content: center;
 }
 .nav__hamburger {
   height: 30px;
