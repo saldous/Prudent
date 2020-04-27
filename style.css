@@ -203,7 +203,7 @@ body.mobile-nav-open .nav__mobile-nav {
 .header__container {
   display: flex;
   flex-direction: column;
-  padding-top: 3.125em;
+  padding-top: 1em;
   padding-bottom: 2em;
 }
 
