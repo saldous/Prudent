@@ -377,9 +377,8 @@ body.mobile-nav-open .nav__mobile-nav {
 .section__text {
   max-width: 400px;
 }
-.header__textterms-text,
-.section__text {
-  max-width: 800px;
+.header__textterms-text {
+  align-items: center;
 }
 .cta {
   color: #fff;
