@@ -136,7 +136,8 @@ hr {
   align-items: center;
 }
 .nav__logo {
-/*   margin-right: 4px; */
+  margin-top: 4px;
+  margin-right: 4px;
   border-radius: 25%;
   height: 30px;
   width: 30px;
