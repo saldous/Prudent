@@ -2,3 +2,4 @@
 
 google.com, pub-6644618667154802, DIRECT, f08c47fec0942fa0
 mopub.com, 18953c83049f45f3b9cdfaf63f46f7a4, DIRECT, 74b46c0ea83967ca
+facebook.com, 1770165106613120, DIRECT, c3e20eee3f780d68
